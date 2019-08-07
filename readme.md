@@ -1,5 +1,5 @@
 
-## Appetiser Test
+## Skill Test
 
 ### How to use
 
