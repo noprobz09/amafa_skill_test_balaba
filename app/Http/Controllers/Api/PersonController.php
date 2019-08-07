@@ -31,7 +31,8 @@ Class PersonController extends Controller
                 return $patients;
             }
 
-            abort(200, 'Server Error');
+            return [];
+            
 
         } catch ( \Exception $e ) {
 

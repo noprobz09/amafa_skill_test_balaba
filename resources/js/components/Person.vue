@@ -3,6 +3,7 @@
         <div class="action">
             <button class="btn btn-md btn-success" v-on:click="add();">Add</button>
         </div>
+       
         <table class="table" v-cloak>
             <thead>
                 <tr>
